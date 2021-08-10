@@ -34,5 +34,29 @@
     "companyId": "SJV0-wdOM",
     "title": "Support Analyst",
     "description": "We need somebody to resolve the chaos done in prod"
+  },
+  {
+    "id": "rkowFeggF",
+    "companyId": "SJV0-wdOM",
+    "title": "HR Manager",
+    "description": "need a manager"
+  },
+  {
+    "id": "BJG9pllgK",
+    "companyId": "SJV0-wdOM",
+    "title": "Tester",
+    "description": "QA to test application"
+  },
+  {
+    "id": "rJ_tWbxxt",
+    "title": "Manager",
+    "description": "need a manager",
+    "companyId": "HJRa-DOuG"
+  },
+  {
+    "id": "rkUeG-leK",
+    "title": "Product Manager",
+    "description": "We need a product manager",
+    "companyId": "HJRa-DOuG"
   }
 ]
